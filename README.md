@@ -1,5 +1,5 @@
 # NMIT_Hacks
-WOX - A Women Safety App - Protecting Women, Empowering Change
+WOX - A Women Safety Device - Protecting Women, Empowering Change
 
 
 ![2](https://github.com/k8wi/NMIT_Hacks/assets/95972832/d4564ac5-1acf-41c0-a11a-9ec799f320fc)
